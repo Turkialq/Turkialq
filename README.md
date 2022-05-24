@@ -1,24 +1,11 @@
 
 
-   ```
-   class TurkiAlqahtani:
-    
-        def __init__(self):
-            self.name = "Turki Alqahtani"
-            self.live = "Riyadh, Saudi Arabia"
-            self.role = "Web developer/mobile developer"
-            self.interested = ['Image Processing', 'Data science', 'Cryptography']
-            self.learning = ['React.js', 'Next.JS']
-            self.hobbies = ['Video Games', 'Moives/TV shows', 'Sleep']
-            
-    
-        def welcomeMessage(self):
-            print("Welcome to my GitHub profile.")
-    
-    
-    me =  welcomeMessage()
-    me.welcomeMessage()
-```
+
+  ![carbon](https://user-images.githubusercontent.com/92539391/169923039-d5923855-279e-4756-9a00-f283967e6384.png)
+
+
+   
+
 
 
 <h3 align="left">Connect with me:</h3>
