@@ -1,4 +1,4 @@
- # Hi There, I am Turki-Alqahtani.
+ # Turki-Alqahtani.
  <p>Full stack software enginer who is interested in building large scalable MicroServices systems.</p>
  <h1>Specialization</h1>
  <p>Building software solutions that solves real-world problems is what drives me. I specialize in making the infrastructure of the solution such as :</p>
