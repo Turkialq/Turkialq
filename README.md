@@ -5,7 +5,7 @@
 
   <li>API-Gateway</li>
   <li>Load-Balancing</li>
-  <li>Business-Logic</li>
+  <li>System Design</li>
 
 
 <h1> Tech Stack</h1>
