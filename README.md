@@ -1,11 +1,5 @@
  # Turki-Alqahtani
  <p>Full stack software enginer who is interested in building large scalable MicroServices.</p>
- <h1>Specialization</h1>
- <p>Building software solutions that solves real-world problems is what drives me. I specialize in making the infrastructure of the solution such as :</p>
-
-  <li>API-Gateway</li>
-  <li>Load-Balancing</li>
-  <li>System Design</li>
 
 
 <h1> Tech Stack</h1>
