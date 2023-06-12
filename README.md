@@ -1,5 +1,5 @@
  # Turki-Alqahtani
- <p>Full stack software enginer who is interested in building large scalable Systems.</p>
+ <p>Full stack software enginer who is interested in building large scalable systems.</p>
 
 
 <h1> Tech Stack</h1>
