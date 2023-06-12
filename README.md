@@ -2,7 +2,6 @@
  <p>Full stack software enginer who is interested in building large scalable systems.</p>
 
 
-<h1> Tech Stack</h1>
 <h2>Front-end</h2>
 <img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="left" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
